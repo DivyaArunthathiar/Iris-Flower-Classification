@@ -10,8 +10,7 @@ Building a web app using streamlit and deploying it to the cloud with Heroku.
 6. Saving the machine learning model
 7. Build the app using python library ‘Streamlit’
 8. Deployment via Heroku
-9. Deployment via Heroku
-10. Conclusion
+9. Conclusion
 
 
 ## Introduction
